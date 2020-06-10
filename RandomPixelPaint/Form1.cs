@@ -19,7 +19,7 @@ namespace RandomPixelPaint
             _ = new PixelPaintBox(bottomMidPictureBox);
             _ = new PixelPaintBox(bottomRightPictureBox);
 
-            BackColor = Color.White;
+            BackColor = Color.BurlyWood;
         }
     }
 }
