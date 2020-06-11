@@ -17,8 +17,8 @@ public class PixelPaintBox
 
 	private Dictionary<(int, int), int> pixelDict = new Dictionary<(int, int), int>();
 
-    public static readonly int bitmapWidth = 150;
-    public static readonly int bitmapHeight = 150;
+    public static readonly int bitmapWidth = 180;
+    public static readonly int bitmapHeight = 180;
 
     public PixelPaintBox(PictureBox pictureBox)
 	{
